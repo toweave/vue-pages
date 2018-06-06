@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15bade98-e71f-413c-bfb6-bd23484672f5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/app.95498f2f1428a8cf190da34ba9a770f6.css" afterPath="$PROJECT_DIR$/static/css/app.95498f2f1428a8cf190da34ba9a770f6.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/app.95498f2f1428a8cf190da34ba9a770f6.css.map" afterPath="$PROJECT_DIR$/static/css/app.95498f2f1428a8cf190da34ba9a770f6.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/0.23b690fa104ab95f4017.js.map" afterPath="$PROJECT_DIR$/static/js/0.23b690fa104ab95f4017.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/1.e1e39d4cb513cf68e139.js.map" afterPath="$PROJECT_DIR$/static/js/1.e1e39d4cb513cf68e139.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/app.055175f57af39f5d3c48.js.map" afterPath="$PROJECT_DIR$/static/js/app.055175f57af39f5d3c48.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/manifest.a79ff63ff31cd1d552eb.js" afterPath="$PROJECT_DIR$/static/js/manifest.a79ff63ff31cd1d552eb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/manifest.a79ff63ff31cd1d552eb.js.map" afterPath="$PROJECT_DIR$/static/js/manifest.a79ff63ff31cd1d552eb.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/vendor.20f8e684f9c0138c28ce.js.map" afterPath="$PROJECT_DIR$/static/js/vendor.20f8e684f9c0138c28ce.js.map" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="519" lean-forward="false" selection-start-line="0" selection-start-column="519" selection-end-line="0" selection-end-column="519" />
+              <caret line="0" column="435" lean-forward="false" selection-start-line="0" selection-start-column="435" selection-end-line="0" selection-end-column="435" />
               <folding />
             </state>
           </provider>
@@ -62,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.a79ff63ff31cd1d552eb.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="manifest.a79ff63ff31cd1d552eb.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/manifest.a79ff63ff31cd1d552eb.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -82,12 +74,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="vendor.20f8e684f9c0138c28ce.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/vendor.20f8e684f9c0138c28ce.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>/static/</find>
       <find>static/js</find>
+      <find>o.e</find>
     </findStrings>
     <replaceStrings>
       <replace>./static/</replace>
@@ -106,6 +109,7 @@
         <option value="$PROJECT_DIR$/static/css/app.95498f2f1428a8cf190da34ba9a770f6.css" />
         <option value="$PROJECT_DIR$/static/css/app.95498f2f1428a8cf190da34ba9a770f6.css.map" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/static/js/manifest.a79ff63ff31cd1d552eb.js" />
       </list>
     </option>
   </component>
@@ -124,7 +128,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="801" />
-    <option name="y" value="59" />
+    <option name="y" value="50" />
     <option name="width" value="1019" />
     <option name="height" value="1003" />
   </component>
@@ -190,6 +194,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="15bade98-e71f-413c-bfb6-bd23484672f5" name="Default" comment="" />
@@ -197,15 +204,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528263723896</updated>
-      <workItem from="1528263725127" duration="167000" />
+      <workItem from="1528263725127" duration="1126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167000" />
+    <option name="totallyTimeSpent" value="1126000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="801" y="59" width="1019" height="1003" extended-state="0" />
+    <frame x="801" y="50" width="1019" height="1003" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gerrit" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -264,10 +271,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/manifest.a79ff63ff31cd1d552eb.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="435" lean-forward="false" selection-start-line="0" selection-start-column="435" selection-end-line="0" selection-end-column="435" />
           <folding />
         </state>
       </provider>
@@ -280,10 +287,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/static/js/vendor.20f8e684f9c0138c28ce.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="519" lean-forward="false" selection-start-line="0" selection-start-column="519" selection-end-line="0" selection-end-column="519" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/manifest.a79ff63ff31cd1d552eb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding />
         </state>
       </provider>
